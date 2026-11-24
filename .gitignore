@@ -1,0 +1,13 @@
+# # Ignore everything
+# *
+# # Don't ignore .gitignore file
+# !.gitignore
+
+# # Add all other files/folders
+# !build/
+# !main/
+# !README.md
+
+# # Check inside folders
+# !build/**
+# !main/**
